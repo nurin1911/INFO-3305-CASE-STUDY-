@@ -6,4 +6,3 @@ Group 1
 3. Anis Syaqirah Binti Muzamil Basri 1918228 (Requirement no 3)
 4. Mardia binti Abdullah 1917306 (Requirement no 4)
 5. Muhammad Hadi Hussaini Bin Talib 1929269 (Requirement no 1&2)
-6. 
