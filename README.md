@@ -10,3 +10,6 @@ _INFO-3305-CASE-STUDY-A Bus Seat Reservation System_
 **Brief Description of the case study**
 
 A bus seat reservation system is an online software solution that allows administrators to easily check bookings for clients. It also keeps track of customers' personal information, commonly used bus routes, and other information. This system can also save admin time from having to answer customer concerns because it is designed specifically for admins to make their jobs easier. This can help to avoid any typical errors that are always captured on hardcopy.
+
+
+[INFO 3305 WAD .pdf](https://github.com/nurin1911/INFO-3305-CASE-STUDY-/files/8799403/INFO.3305.WAD.pdf)
